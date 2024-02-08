@@ -3,6 +3,7 @@
 ## <p align="center"> Xiaomi <p/>
 - Redmi Note 12 4G NFC ( topaz )
 - Redmi Note 10 Pro ( sweet )
+- Mi 10t / pro (Apollo)
 
 ## <p align="center"> POCO <p/>
 - POCO F1 (beryllium)
