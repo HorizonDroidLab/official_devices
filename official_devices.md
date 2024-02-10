@@ -20,6 +20,7 @@
 - Poco F5 (marble)
 - Poco X5 5G/Redmi Note 12 5G ( Stone )
 - Poco M4 Pro 5G/Redmi Note 11T 5G/Redmi Note 11S 5G ( Everpal )
+- Poco X5 Pro 5G/Redmi Note 12 PRO SE ( Redwood )
 
 ## <p align="center"> Asus <p/>
 - Asus Zenfone Max M2 ( X01AD )
