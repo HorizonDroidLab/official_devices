@@ -18,7 +18,7 @@
 - Poco F1 ( Beryllium )
 - Poco F3/Mi 11x/Redmi K40 ( Alioth )
 - Poco F5 (marble)
-- Poco X4 (veux)
+- Poco X4 Pro (veux)
 - Poco X5 5G/Redmi Note 12 5G ( Stone )
 - Poco M4 Pro 5G/Redmi Note 11T 5G/Redmi Note 11S 5G ( Everpal )
 - Poco X5 Pro 5G/Redmi Note 12 PRO SE ( Redwood )
