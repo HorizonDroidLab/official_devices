@@ -1,5 +1,9 @@
 # HorizonDroid official devices
 
+## <p align="center"> Google Pixel <p/>
+- Google Pixel 6 ( Oriole )
+- Google Pixel 7 Pro ( Cheetah )
+
 ## <p align="center"> Xiaomi <p/>
 - Mi 12 Lite ( Taoyao )
 - Mi 10t / pro ( Apollo )
@@ -9,6 +13,7 @@
 - Redmi Note 8 ( Ginkgo )
 - Redmi 9 ( Lancelot )
 - Redmi Note 9 ( Merlinx )
+- Redmi 10 ( Selene )
 - Redmi Note 10 ( Mojito )
 - Redmi Note 10S ( Rosemary)
 - Redmi Note 10 Pro ( sweet )
