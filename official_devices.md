@@ -5,8 +5,9 @@
 - Google Pixel 7 Pro ( Cheetah )
 
 ## <p align="center"> Xiaomi <p/>
-- Mi 12 Lite ( Taoyao )
 - Mi 10t / pro ( Apollo )
+- Mi 11x Pro (Haydn)
+- Mi 12 Lite ( Taoyao )
 
 ## <p align="center"> Redmi <p/>
 - Redmi 5 Plus ( Vince )
