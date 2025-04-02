@@ -1,6 +1,6 @@
-<div align="center">
-   <b>  | OFFICIAL Devices of HorizonDroid |
-   </div>
+
+<b>  | OFFICIAL Devices of HorizonDroid |
+
 
    ∆  <u>Google Pixel</u>  ∆
 - Google Pixel 6  (<code>oriole</code>)
