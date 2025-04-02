@@ -1,4 +1,4 @@
-<b>      |   OFFICIAL Devices of HorizonDroid   |
+<b>      |   OFFICIAL Devices of HorizonDroid   |      
 
    ∆  <u>Xiaomi</u>  ∆
 -  Mi 9T  (<code>davinci</code>)
