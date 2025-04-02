@@ -20,6 +20,8 @@
 - Redmi Note 10 Pro ( sweet )
 - Redmi Note 12 4G NFC ( topaz )
 
+- Redmi Note 4 (<code>mido</code>)
+
 ## <p align="center"> POCO <p/>
 - Poco F1 ( Beryllium )
 - Poco F3/Mi 11x/Redmi K40 ( Alioth )
