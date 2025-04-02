@@ -16,7 +16,6 @@
 -  Redmi Note 12 4G NFC  (<code>topaz</code>)
 
    ∆  <u>POCO</u>  ∆
-
 -  Poco F1  (<code>beryllium</code>)
 -  Poco F3/Mi 11x/Redmi K40  (<code>alioth</code>)
 -  Poco F5  (<code>marble</code>)
@@ -37,5 +36,5 @@
 - Motorola G52 (<code>rhode</code>)
 
    ∆  <u>Lenovo</u>  ∆
--Lenovo Z6 Pro (<code>zippo</code>)
+- Lenovo Z6 Pro (<code>zippo</code>)
 </b>
