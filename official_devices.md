@@ -1,4 +1,4 @@
-<b>  | OFFICIAL Devices of HorizonDroid |
+<b>      |   OFFICIAL Devices of HorizonDroid   |
 
    ∆  <u>Google Pixel</u>  ∆
 - Google Pixel 6  (<code>oriole</code>)
@@ -25,16 +25,16 @@
 -  Poco X5 Pro 5G/Redmi Note 12 PRO SE  (<code>redwood</code>)
   
    ∆  <u>Asus</u>  ∆
-- Asus Zenfone Max M2 (<code>X01AD</code>)
+-  Asus Zenfone Max M2 (<code>X01AD</code>)
 
    ∆  <u>Realme</u>  ∆
-- Realme GT Neo 3T (<code>spartan</code>)
+-  Realme GT Neo 3T (<code>spartan</code>)
 
    ∆  <u>Motorola</u>  ∆
-- Motorola G32 (<code>devon</code>)
-- Motorola G42 (<code>hawao</code>)
-- Motorola G52 (<code>rhode</code>)
+-  Motorola G32 (<code>devon</code>)
+-  Motorola G42 (<code>hawao</code>)
+-  Motorola G52 (<code>rhode</code>)
 
    ∆  <u>Lenovo</u>  ∆
-- Lenovo Z6 Pro (<code>zippo</code>)
+-  Lenovo Z6 Pro (<code>zippo</code>)
 </b>
