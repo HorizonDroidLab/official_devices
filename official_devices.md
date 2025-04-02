@@ -1,6 +1,6 @@
 # HorizonDroid Official Devices
 
-<div align="center">
+
   <u>Google Pixel</u>
   <ul>
     <li>Google Pixel 6 (Oriole)</li>
