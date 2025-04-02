@@ -1,7 +1,7 @@
 # HorizonDroid Official Devices
 
 <div align="center">
-  <h2>Google Pixel</h2>
+  <b>Google Pixel</b>
   <ul>
     <li>Google Pixel 6 (Oriole)</li>
     <li>Google Pixel 7 Pro (Cheetah)</li>
