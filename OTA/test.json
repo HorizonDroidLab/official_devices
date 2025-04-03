@@ -1,6 +1,7 @@
 {
         "response": [
                 {
+                         "sta": "Active",
                         "maintainer": "Esma3iLMagdey",
                         "oem": "Xiaomi",
                         "device": "Redmi 12 5g",
