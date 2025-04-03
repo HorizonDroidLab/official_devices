@@ -1,6 +1,7 @@
 {
         "response": [
                 {
+                        "Status": "Active",
                         "maintainer": "superxorn",
                         "oem": "Xiaomi",
                         "device": "Mi 9T",
